@@ -4,8 +4,11 @@
 #### Software Systems Development
 I created my portifolio website which contains following files:
 1.`index.html`
+
 2.`styles folder` which contains css file.
+
 3.`scripts folder`which contains javascript file.
+
 4.`images folder` which contains images used in the website.
 ## HTML
 There is only single html page named `index.html`, which is divided using div tags.All these subdivisions are connected using a navigation bar.
