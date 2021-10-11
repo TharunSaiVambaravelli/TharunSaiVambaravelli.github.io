@@ -1,4 +1,3 @@
-# TharunSaiVambaravelli.github.io
 ## Assignment - 2
 ## Part a(Personal Portifolio)
 #### Software Systems Development
